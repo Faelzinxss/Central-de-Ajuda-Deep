@@ -23,5 +23,4 @@ central-de-ajuda-deep/
 └── .gitignore          # Arquivos ignorados pelo controle de versão
 
 ## Licença e Direitos Autorais
-
 Todos os direitos reservados. Este projeto possui uso restrito e não é autorizado copiar, modificar, distribuir, sublicenciar ou utilizar este código-fonte e sua documentação sem permissão expressa do autor/organização responsável.
